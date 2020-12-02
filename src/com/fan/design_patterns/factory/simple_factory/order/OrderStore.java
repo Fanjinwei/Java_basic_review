@@ -9,6 +9,9 @@ import com.fan.design_patterns.factory.simple_factory.SimpleFactory;
 //相当于一个客户端
 public class OrderStore {
     public static void main(String[] args) {
-        new OrderPizza(new SimpleFactory());
+
+
+//        new OrderPizza(new SimpleFactory());
+        new OrderPizza2();
     }
 }
