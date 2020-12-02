@@ -1,6 +1,5 @@
 package com.fan.design_patterns.factory.simple_factory.order;
 
-import com.fan.design_patterns.factory.simple_factory.SimpleFactory;
 
 /**
  * @author fjw
@@ -13,5 +12,6 @@ public class OrderStore {
 
 //        new OrderPizza(new SimpleFactory());
         new OrderPizza2();
+        //fuck
     }
 }
