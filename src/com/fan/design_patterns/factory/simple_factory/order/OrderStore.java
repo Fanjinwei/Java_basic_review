@@ -12,6 +12,5 @@ public class OrderStore {
 
 //        new OrderPizza(new SimpleFactory());
         new OrderPizza2();
-        //fuck
     }
 }
